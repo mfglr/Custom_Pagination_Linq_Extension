@@ -66,8 +66,6 @@ var list3 = context
 */
 //***************************************************************************
 
-Console.WriteLine();
-
 
 public class Person
 {
