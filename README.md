@@ -1,3 +1,14 @@
+
+<h2>ToPage Extention</h2>
+
+<p>
+    ToPage extention method has 4 arguments.
+    
+    1)
+        Expression<Func<TEntity, TProperty>> propertyForPagination,
+</p>
+
+
 <code>
 using ExpressionTree;
 
